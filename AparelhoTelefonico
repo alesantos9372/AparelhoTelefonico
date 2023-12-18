@@ -1,0 +1,17 @@
+package ReprodutorMusical;
+
+public class Interface {
+	
+	public static void tocar() {
+		System.out.println("Tocando.");
+	}
+	
+	public static void pausar() {
+		System.out.println("Pausando.");
+	}
+	
+	public static void selecionarMusica() {
+		System.out.println("Selecionando musica.");
+	}
+
+}
