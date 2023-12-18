@@ -1,0 +1,18 @@
+package ReprodutorMusical;
+
+public class reprodutor {
+	
+	public static void main(String[] args) {
+		
+	Interface.tocar();
+	Interface.pausar();
+	Interface.selecionarMusica();
+	
+		
+		
+	}
+
+	
+
+	
+}
