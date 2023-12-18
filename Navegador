@@ -1,0 +1,15 @@
+package NavegadorInternet;
+
+public class navegador {
+	
+	public static void main(String[] args) {
+		Interface.exibirPagina();
+		Interface.adicionarNovaAba();
+		Interface.atualizarPagina();
+		
+		
+		
+		
+	}
+
+}
